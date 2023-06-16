@@ -73,7 +73,7 @@ body {
 }
 
 .topnav a.active {
-  background-color: #343a90;
+  background-color: #028f1e;
   color: white;
 }
 </style>
@@ -89,7 +89,7 @@ body {
     }
 
     .title-box {
-      background-color: #991199;
+      background-color: #028f1e;
       padding: 10px;
       margin-bottom: 20px;
       text-align: center;
@@ -103,7 +103,7 @@ body {
     }
 
     h2 {
-      color: #991199;
+      color: #028f1e;
       font-family: 'Encode Sans Condensed Medium';
       font-size: 20px;
       margin-top: 10px;
@@ -111,7 +111,7 @@ body {
     }
     
      h3 {
-      color: #991199;
+      color: #028f1e;
       font-family: 'Encode Sans Condensed Medium';
       font-size: 16px;
       margin-top: 17px;
