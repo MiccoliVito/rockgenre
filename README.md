@@ -210,7 +210,7 @@ We went on a thrilling journey to explore American rock music. Using Wikidata an
     <a href="https://projects.dharc.unibo.it/melody/modify/1686929094.246161/rock_music_behind_the_scenes">
        <img src="WhatsApp Image 2023-06-16 at 18.07.13.jpeg" alt="Image 1" width="400" height="250" />
   
-      <img src="WhatsApp Image 2023-06-14 at 19.51.15.jpeg" alt="Image 2" width="400" height="250" /></a>
+      <img src="WhatsApp Image 2023-06-16 at 18.07.19.jpeg" alt="Image 2" width="400" height="250" /></a>
     </div>
   </div>
 <br />
