@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Rock-Genre-in-USA</title>
+<title>Rock-Genre</title>
 <meta name="generator" content="Jekyll v3.9.3" />
 <meta property="og:title" content="Rock-Genre" />
 <meta property="og:locale" content="en_US" />
@@ -207,8 +207,8 @@ We went on a thrilling journey to explore American rock music. Using Wikidata an
 
   <div class="section">
     <div class="section-image">
-    <a href="https://projects.dharc.unibo.it/melody/1686588464.951175/exploring_rock_bands_in_the_usa">
-       <img src="WhatsApp Image 2023-06-14 at 19.51.38.jpeg" alt="Image 1" width="400" height="250" />
+    <a href="https://projects.dharc.unibo.it/melody/modify/1686929094.246161/rock_music_behind_the_scenes">
+       <img src="WhatsApp Image 2023-06-16 at 18.07.13.jpeg" alt="Image 1" width="400" height="250" />
   
       <img src="WhatsApp Image 2023-06-14 at 19.51.15.jpeg" alt="Image 2" width="400" height="250" /></a>
     </div>
