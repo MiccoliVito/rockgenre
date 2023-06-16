@@ -207,7 +207,7 @@ To measure the magnitude of rock music's commercial success, we present a dynami
 Lastly, we faced the enchanting world of rock songs through a scatterplot graph. This visual representation portrays the relationship between beats per minute (BPM) and duration, offering insights into the diverse rhythms and melodies that define rock.
 Join us on this exhilarating journey through the depths of "Rock Music: Behind the Scenes." Let the power of rock marvel your senses, as we reveal its secrets and celebrate its icons. Experience the true essence of this extraordinary genre <a href="https://projects.dharc.unibo.it/melody/modify/1686929094.246161/rock_music_behind_the_scenes"><span style="color:grey"> <b> here</b></span></a>.</p>
   </div>
-
+ 
   <div class="section">
     <div class="section-image">
     <a href="https://projects.dharc.unibo.it/melody/modify/1686929094.246161/rock_music_behind_the_scenes">
