@@ -187,13 +187,13 @@ body {
   </div>
 
   <h2><em>Written by: Serena Sciortino, Vito Antonio Miccoli, Gilda Gitto</em></h2>
-  <p class="italic">Get ready for an amazing adventure into the world of rock music in the USA. We'll explore the huge number of bands, the exciting stadiums they perform in, and the talented members that make up these groups. We'll also discover when these bands formed and how their music evolved over time. Along the way, we'll see cool pictures of rock bands and their unique styles. Plus, we'll dive into the story of Guns N' Roses, learning about their band members, hit albums, and when they were released. Get ready to rock out to the incredible music and stories that define American rock!</p>
+  <p class="italic">"Rock Music: Behind the Scenes" is a journey that shows the basics of  rock music. Through the use of data analysis and visualization techniques, this story is about the basic facts of the genre, showcasing influential icons, formation years of bands, commercial success, and the rhythmic dynamics within rock songs. Join us as we explore the world of rock music.</p>
 
  <h3>Keywords: rock music, data analysis, visualization, influential icons, band formation, commercial success, rhythmic dynamics.</h3>
 
   <div class="article">
     <div class="article-text">
-      <p>Step into the captivating world of "Rock Music: Behind the Scenes". Through the power of data analysis and visualization, we unveil the essence of rock music, revealing its iconic figures, formation years, commercial success, and the rhythmic magic within rock songs.
+      <p>Let's discover the Behind the Scenes of rock music. Through the power of data analysis and visualization, we shed light on the essence of rock music, revealing its iconic figures, formation years, commercial success, and the rhythmic magic within rock songs.
 Our adventure begins with two counts: 50 rock singers and 32 rock women singers. These talented individuals give their heart and soul to the rock genre. Next, a doughnut chart reveals the top 5 most influential icons: Led Zeppelin, Jimi Hendrix, The Beatles, Nirvana, and The Rolling Stones. Their legacies continue to shape the course of rock music, leaving an everlasting impact.</p>
     </div>
     <div class="article-image">
@@ -204,8 +204,8 @@ Our adventure begins with two counts: 50 rock singers and 32 rock women singers.
   <div class="white-box">
     <p style="font-family: 'Times New Roman', serif;">Going further, we explore the formation years of rock bands through a line chart. In 1970, a remarkable peak saw the birth of 27 bands, a transformative era that ignited creativity and rebellion within the genre.
 To measure the magnitude of rock music's commercial success, we present a dynamic bar chart. On January 1, 2000, sales peaked, demonstrating the enduring popularity and widespread appeal of rock music.
-Lastly, we venture into the enchanting world of rock songs through a scatterplot graph. This visual representation portrays the relationship between beats per minute (BPM) and duration, offering insights into the diverse rhythms and melodies that define rock.
-Join us on this exhilarating journey through the depths of "Rock Music: Behind the Scenes." Let the power of rock captivate your senses, as we unravel its secrets and celebrate its icons. Experience the true essence of this extraordinary genre <a href="https://projects.dharc.unibo.it/melody/modify/1686929094.246161/rock_music_behind_the_scenes"><span style="color:grey"> <b> here</b></span></a>.</p>
+Lastly, we faced the enchanting world of rock songs through a scatterplot graph. This visual representation portrays the relationship between beats per minute (BPM) and duration, offering insights into the diverse rhythms and melodies that define rock.
+Join us on this exhilarating journey through the depths of "Rock Music: Behind the Scenes." Let the power of rock marvel your senses, as we reveal its secrets and celebrate its icons. Experience the true essence of this extraordinary genre <a href="https://projects.dharc.unibo.it/melody/modify/1686929094.246161/rock_music_behind_the_scenes"><span style="color:grey"> <b> here</b></span></a>.</p>
   </div>
 
   <div class="section">
