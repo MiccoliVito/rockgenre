@@ -196,7 +196,7 @@ body {
 We went on a thrilling journey to explore American rock music. Using Wikidata and the Melody platform, we wanted to uncover the secret stories behind the thriving rock band scene in the United States. Our journey started with an amazing revelation: Wikidata contained records of a whopping 17,628 music bands in the USA, out of which 633 were classified as rock bands. These numbers clearly demonstrated the significant presence and popularity of rock music across the country. To explore where these rock bands perform, we used the Melody platform and a simple query to create a map showing the locations of stadiums hosting rock concerts. This visual representation gave us a glimpse into the diverse cities and venues that have embraced the power of rock music. To understand when rock bands formed, we used data from Wikidata to generate a captivating line chart. The chart revealed that a significant number of influential bands emerged between 1989 and 2000, followed by another notable wave between 2001 and 2004. These periods marked important milestones in the evolution of American rock music.</p>
     </div>
     <div class="article-image">
-      <img src="https://www.virginradio.it/resizer/628/-1/true/guns-1589458517573.png--guns_n__roses__la_vera_storia_di_come_nacque_la_band__le_origini_dell_incontro_tra_axl_rose_e_slash.png?1589458517812" alt="Article Image" />
+      <img src="https://images.unsplash.com/photo-1629276301820-0f3eedc29fd0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHJvY2slMjBtdXNpY3xlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80" alt="Article Image" />
     </div>
   </div>
 
