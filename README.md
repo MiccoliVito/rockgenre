@@ -40,7 +40,7 @@
 
       <html>
 <head>
-  <title>Multiplying Insights with Data Analysis: Exploring USA's Rock Bands</title>
+  <title>Multiplying insights with data analysis:  Exploring the Secrets of "Rock Music: Behind the Scenes"</title>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <style>
 body {
@@ -182,18 +182,19 @@ body {
 
 
   <div class="title-box">
-    <h1>Multiplying Insights with Data Analysis: Exploring USA's Rock Bands</h1>
+    <h1>Multiplying insights with data analysis:  Exploring the Secrets of "Rock Music: Behind the Scenes"
+</h1>
   </div>
 
   <h2><em>Written by: Serena Sciortino, Vito Antonio Miccoli, Gilda Gitto</em></h2>
   <p class="italic">Get ready for an amazing adventure into the world of rock music in the USA. We'll explore the huge number of bands, the exciting stadiums they perform in, and the talented members that make up these groups. We'll also discover when these bands formed and how their music evolved over time. Along the way, we'll see cool pictures of rock bands and their unique styles. Plus, we'll dive into the story of Guns N' Roses, learning about their band members, hit albums, and when they were released. Get ready to rock out to the incredible music and stories that define American rock!</p>
 
- <h3>Keywords: data journalism, music analysis, rock genre, USA rock bands, insights, Wikidata, Melody.</h3>
+ <h3>Keywords: rock music, data analysis, visualization, influential icons, band formation, commercial success, rhythmic dynamics.</h3>
 
   <div class="article">
     <div class="article-text">
-      <p>
-We went on a thrilling journey to explore American rock music. Using Wikidata and the Melody platform, we wanted to uncover the secret stories behind the thriving rock band scene in the United States. Our journey started with an amazing revelation: Wikidata contained records of a whopping 17,628 music bands in the USA, out of which 633 were classified as rock bands. These numbers clearly demonstrated the significant presence and popularity of rock music across the country. To explore where these rock bands perform, we used the Melody platform and a simple query to create a map showing the locations of stadiums hosting rock concerts. This visual representation gave us a glimpse into the diverse cities and venues that have embraced the power of rock music. To understand when rock bands formed, we used data from Wikidata to generate a captivating line chart. The chart revealed that a significant number of influential bands emerged between 1989 and 2000, followed by another notable wave between 2001 and 2004. These periods marked important milestones in the evolution of American rock music.</p>
+      <p>Step into the captivating world of "Rock Music: Behind the Scenes". Through the power of data analysis and visualization, we unveil the essence of rock music, revealing its iconic figures, formation years, commercial success, and the rhythmic magic within rock songs.
+Our adventure begins with two counts: 50 rock singers and 32 rock women singers. These talented individuals give their heart and soul to the rock genre. Next, a doughnut chart reveals the top 5 most influential icons: Led Zeppelin, Jimi Hendrix, The Beatles, Nirvana, and The Rolling Stones. Their legacies continue to shape the course of rock music, leaving an everlasting impact.</p>
     </div>
     <div class="article-image">
       <img src="https://images.unsplash.com/photo-1629276301820-0f3eedc29fd0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHJvY2slMjBtdXNpY3xlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80" alt="Article Image" />
@@ -201,8 +202,10 @@ We went on a thrilling journey to explore American rock music. Using Wikidata an
   </div>
 
   <div class="white-box">
-    <p style="font-family: 'Times New Roman', serif;">Next, we focused on some iconic rock bands that have influenced American music. Using the Melody platform, we created a clear bar chart that displayed the number of members in well-known bands like Santana, Guns N' Roses, Journey, Linkin Park, and My Chemical Romance. This visual comparison helped us understand the size and dynamics of these groups. Additionally, we dived deeper into Guns N' Roses, examining their band members and album release dates. By using data from Wikidata and the Melody platform, we created two tables that showcased the names of band members, their birthyear, their associated albums, and release dates. This overview shed light on the evolution and discography of Guns N' Roses. We also compiled a comprehensive table featuring one of the most famous rock bands in the United States, The Red Hot Chili Peppers, along with their band images. This visual compilation provided a glimpse into the unique appearances and distinctive styles of this legendary group. Lastly, we inserted a text search to look for information about each of the members. Through the power of data analysis and the Melody platform, we uncovered fascinating insights about the rock band landscape in the United States. Leveraging Wikidata, we discovered the abundance of rock bands, their performance locations, formation periods, and notable rock legends. Each exploration and visualization added depth and context to the ever-evolving masterpiece of American rock music, leaving us in awe of the creativity, influence, and enduring spirit of this extraordinary genre. Check 
-<a href="https://projects.dharc.unibo.it/melody/modify/1686929094.246161/rock_music_behind_the_scenes"><span style="color:grey"><b>here</b></span></a> and have a first insight of US rock.</p>
+    <p style="font-family: 'Times New Roman', serif;">Going further, we explore the formation years of rock bands through a line chart. In 1970, a remarkable peak saw the birth of 27 bands, a transformative era that ignited creativity and rebellion within the genre.
+To measure the magnitude of rock music's commercial success, we present a dynamic bar chart. On January 1, 2000, sales peaked, demonstrating the enduring popularity and widespread appeal of rock music.
+Lastly, we venture into the enchanting world of rock songs through a scatterplot graph. This visual representation portrays the relationship between beats per minute (BPM) and duration, offering insights into the diverse rhythms and melodies that define rock.
+Join us on this exhilarating journey through the depths of "Rock Music: Behind the Scenes." Let the power of rock captivate your senses, as we unravel its secrets and celebrate its icons. Experience the true essence of this extraordinary genre<a href="https://projects.dharc.unibo.it/melody/modify/1686929094.246161/rock_music_behind_the_scenes"><span style="color:grey"><b>here</b></span></a>.</p>
   </div>
 
   <div class="section">
