@@ -204,7 +204,7 @@ Our adventure begins with two counts: 50 rock singers and 32 rock women singers.
   <div class="white-box">
     <p style="font-family: 'Times New Roman', serif;">Going further, we explore the formation years of rock bands through a line chart. In 1970, a remarkable peak saw the birth of 27 bands, a transformative era that ignited creativity and rebellion within the genre.
 To measure the magnitude of rock music's commercial success, we present a dynamic bar chart. On January 1, 2000, sales peaked, demonstrating the enduring popularity and widespread appeal of rock music.
-Lastly, we faced the enchanting world of rock songs through a scatterplot graph. This visual representation portrays the relationship between beats per minute (BPM) and duration, offering insights into the diverse rhythms and melodies that define rock.
+Then, we faced the enchanting world of rock songs through a scatterplot graph. This visual representation portrays the relationship between beats per minute (BPM) and duration, offering insights into the diverse rhythms and melodies that define rock. Lastly, we presented a search term table that provides different rock bands grouped by their countries, so go and check if you are curious.
 Join us on this exhilarating journey through the depths of "Rock Music: Behind the Scenes." Let the power of rock marvel your senses, as we reveal its secrets and celebrate its icons. Experience the true essence of this extraordinary genre <a href="https://melody-data.github.io/stories/published_stories/story_1686929094.246161.html"><span style="color:grey"> <b> here</b></span></a>.</p>
   </div>
  
